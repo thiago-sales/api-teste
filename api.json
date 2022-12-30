@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "matrícula": 01,
+    "nome": "Thiago Silva",
+    "contato": "(83) 99145-5463"
+  },
+  {
+    "id": 2,
+    "matrícula": 02,
+    "nome": "Roberto Mota",
+    "contato": "(83) 99145-5463"
+  },
+  {
+    "id": 3,
+    "matrícula": 01,
+    "nome": "Marcos Antônio",
+    "contato": "(83) 99145-5463"
+  }
+]
